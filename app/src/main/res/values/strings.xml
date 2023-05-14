@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjemploBD</string>
+    <string name="String_Titulo">Agregar Dato</string>
+    <string name="btnConsultar">Consultar</string>
+    <string name="btnAgregar">Agregar</string>
+    <string name="btnBuscar">Buscar</string>
+</resources>
